@@ -36,7 +36,7 @@
           </span>
         </a>
         <ul class="treeview-menu">
-          <li><a href="simple.html"><i class="fa fa-circle-o"></i> Simple tables</a></li>
+          <li><a href="data-cv.php"><i class="fa fa-circle-o"></i> Data CV</a></li>
           <li class="active"><a href="data-mahasiswa.php"><i class="fa fa-circle-o"></i> Data Mahasiswa</a></li>
         </ul>
       </li>

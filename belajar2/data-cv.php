@@ -7,7 +7,7 @@ require 'sidebar.php'; ?>
     <!-- Content Header (Page header) -->
     <section class="content-header">
         <h1>
-            Data Mahasiswa
+            Data CV
         </h1>
     <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
@@ -40,7 +40,7 @@ require 'sidebar.php'; ?>
         ?>
         <!-- /.box-header -->
         <div class="box-body">
-         <a class="btn btn-primary" href="tambah.php" role="button">Tambah Mahasiswa Baru</a>
+         <a class="btn btn-primary" href="tambah.php" role="button">Tambah Barang</a>
          <table id="example1" class="table table-bordered table-striped">
             <thead>
                 <tr>
